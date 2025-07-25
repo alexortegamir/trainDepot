@@ -1,4 +1,4 @@
-# H0TrainDepot
+H0TrainDepot
 
 **H0TrainDepot** is a simple Python-based project to manage your personal inventory of H0 scale model trains and wagons.
 
